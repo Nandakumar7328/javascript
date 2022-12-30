@@ -29,19 +29,18 @@ const blocks = [
         "gym": false,
         "school": true,
         "store": true,
-        "school": false,
     },
     {
         "gym": true,
         "school": false,
         "store": false,
-        "school": false,
+     
     },
     {
         "gym": true,
         "school": true,
         "store": false,
-        "school": true,
+      
     },
     {
         "gym": false,
@@ -52,7 +51,7 @@ const blocks = [
     "gym": true,
     "school": true,
     "store": false,
-    "school": true,
+    
     }
     ]
 const reqs = ["gym", "school", "store"]
