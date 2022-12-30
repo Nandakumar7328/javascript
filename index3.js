@@ -28,7 +28,7 @@ const blocks = [
     {
         "gym": false,
         "school": true,
-        "store": true,
+        "store": false,
     },
     {
         "gym": true,
